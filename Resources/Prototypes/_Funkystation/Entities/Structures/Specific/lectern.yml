@@ -38,9 +38,9 @@
       fill:
         minCount: 1
         whitelist:
-        tags:
-          - Book
-          - Paper
+          tags:
+            - Book
+            - Paper
     sprite: _Funkystation/Structures/Furniture/lectern.rsi
   - type: Appearance
   - type: Damageable
