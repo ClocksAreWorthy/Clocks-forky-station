@@ -11,8 +11,8 @@
       - !type:SnapToGrid { }
       steps:
       - material: WoodPlank
-        amount: 2
-        doAfter: 1
+        amount: 3
+        doAfter: 2
   - node: lectern
     entity: Lectern
     edges:
@@ -23,4 +23,4 @@
         amount: 3
       steps:
       - tool: Prying
-        doAfter: 3
+        doAfter: 2
