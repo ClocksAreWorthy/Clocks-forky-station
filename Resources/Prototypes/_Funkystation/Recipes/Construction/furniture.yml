@@ -10,7 +10,7 @@
   conditions:
   - !type:TileNotBlocked
   
-  - type: construction
+- type: construction
   id: Lectern
   graph: Lectern
   startNode: start
