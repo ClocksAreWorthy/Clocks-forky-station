@@ -115,75 +115,75 @@
       "name": "rainbow_chair"
     },
     {
-       "name": "comfyblack",
+       "name": "ComfyBlack",
 	   "directions": 4
     },
     {
-       "name": "comfygrey",
+       "name": "ComfyGrey",
 	   "directions": 4
     },
     {
-       "name": "comfybrown",
+       "name": "ComfyBrown",
 	   "directions": 4
     },
 	{
-       "name": "comfygreen",
+       "name": "ComfyGreen",
 	   "directions": 4
     },
 	{
-       "name": "comfyblue",
+       "name": "ComfyBlue",
 	   "directions": 4
     },
 	{
-       "name": "comfylightblue",
+       "name": "ComfyLightBlue",
 	   "directions": 4
     },
 	{
-       "name": "comfypink",
+       "name": "ComfyPink",
 	   "directions": 4
     },
 	{
-       "name": "comfyred",
+       "name": "ComfyRed",
 	   "directions": 4
     },
 	{
-       "name": "comfypurple",
+       "name": "ComfyPurple",
 	   "directions": 4
     },
 	{
-	   "name": "comfyblack-overlay",
+	   "name": "ComfyBlack-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfygrey-overlay",
+	   "name": "ComfyGrey-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfybrown-overlay",
+	   "name": "ComfyBrown-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfygreen-overlay",
+	   "name": "ComfyGreen-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfyblue-overlay",
+	   "name": "ComfyBlue-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfylightblue-overlay",
+	   "name": "ComfyLightBlue-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfypink-overlay",
+	   "name": "Comfypink-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfyred-overlay",
+	   "name": "ComfyRed-overlay",
 	   "directions": 4
 	},
 	{
-	   "name": "comfypurple-overlay",
+	   "name": "ComfyPurple-overlay",
 	   "directions": 4
 	}
   ]
