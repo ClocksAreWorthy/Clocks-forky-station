@@ -374,4 +374,26 @@
   id: 42
   time: '2026-09-02T05:22:11Z'
   url: https://github.com/funky-station/forky-station/pull/258
+- author: pirakaplant, zergologist
+  changes:
+  - message: Added the hospitality director's pillbox hat, two hospitality director's
+      uniforms, plus a hospitality director's vest, coat, and winter coat (sprites
+      by zergologist). They can all be made in a uniform printer.
+    type: Add
+  - message: Changed the Hospitality Director's loadout options to fit the new clothing
+      items.
+    type: Tweak
+  - message: Updated the Hospitality Director chameleon outfit to better fit their
+      new loadout.
+    type: Tweak
+  - message: Increased the Hospitality Director's hour requirements to 15 Service
+      hours, 5 Bartender hours, and 5 Chef hours.
+    type: Tweak
+  - message: The Hospitality Director now starts with a flash.
+    type: Tweak
+  - message: Updated the Hospitality Director job spawn icon.
+    type: Tweak
+  id: 43
+  time: '2026-09-03T04:01:46Z'
+  url: https://github.com/funky-station/forky-station/pull/329
 Order: -1
