@@ -27,7 +27,6 @@
         - id: PaintingOldGuitarist
         - id: PaintingOlympia
         - id: PaintingSaturn
-        - id: PaintingSleepingGypsy
         - id: PaintingRedBlueYellow
         - id: PaintingHelloWorld
       - !type:GroupSelector
