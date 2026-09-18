@@ -4,6 +4,8 @@
   name: reagent grinder
   description: From BlenderTech. Will It Blend? Let's find out!
   components:
+  - type: Transform
+    noRot: false
   - type: ReagentGrinder
     grindSound:
       params:
